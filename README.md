@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<h5>Jangan dicontoh ya,kalo mau belajar itu bilang </h5>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
